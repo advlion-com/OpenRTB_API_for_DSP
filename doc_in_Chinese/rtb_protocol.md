@@ -226,4 +226,4 @@ DSP 不参与竞价时，要求返回 HTTP 状态码 204。
 
 > ${AUCTION_PRICE}
 
-解密算法请看[价格解密说明](doc_in_Chinese/price_decryption.md)
+解密算法请看[价格解密说明](price_decryption.md)
