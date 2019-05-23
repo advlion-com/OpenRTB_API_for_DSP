@@ -6,7 +6,7 @@
 - [价格解密说明](doc_in_Chinese/price_decryption.md)
 - [请求和返回示例](doc_in_Chinese/sample_of_request_and_response.md)
 
-## The documentation are built for DSP integrate into  AdVlion Adx. Please read it carefully.
+## The documentations are built for DSP integrate into  AdVlion Adx. Please read it carefully.
 
 - [Modification](doc_in_English/modification_log.md)
 - [Instruction](doc_in_English/instruction.md)
